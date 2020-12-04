@@ -10,7 +10,7 @@ En el presente proyecto se utiliza el dataset de [‘LEGO Minifigures’][kaggle
 
 ## Disclaimer
 The [original dataset][kaggle], owned by Yaroslav Isaienkov, with contributors Kostiantyn Isaienkov and Alina Zhuravel, is licensed under
-[Creative Commons Attribution 4.0 International License][cc-by]. For this project, we used 121 images from the ones available in Kaggle, modified them by cropping then and extracted our own features with them.
+[Creative Commons Attribution 4.0 International License][cc-by]. For this project, we used 121 images from the ones available in Kaggle, modified them by cropping them and extracted our own features with the cropped ones.
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [kaggle]: https://www.kaggle.com/ihelon/lego-minifigures-classification
