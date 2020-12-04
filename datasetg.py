@@ -4,6 +4,9 @@ from matplotlib import pyplot as plt
 import numpy as np
 from pathlib import Path
 from matplotlib import cm
+'''
+Code for generating lego_data.csv
+'''
 
 # Definicion de variables para extraccion de datos en el dataset
 a, b, c, d, f = 0, 1, 0, 1, 0

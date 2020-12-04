@@ -3,6 +3,10 @@ import math
 import glob
 import numpy as np
 
+'''
+Code for analising Hu Moments
+'''
+
 # paths a las imagenes de yoda
 yoda_path = glob.glob('./star-wars/0001/*.jpg')
 
