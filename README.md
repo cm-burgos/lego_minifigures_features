@@ -1,4 +1,4 @@
-# Proyecto final: extracción de características en imágenes de minifiguras LEGO.
+# Extracción de características en imágenes de minifiguras LEGO.
 
 **Integrantes**: Carolina Burgos, Edwin Caicedo, William Moreno
 
