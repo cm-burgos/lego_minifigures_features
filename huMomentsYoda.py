@@ -50,14 +50,6 @@ resized = cv2.resize(imyoda, dsize)
 rotate = cv2.rotate(imyoda, cv2.ROTATE_90_CLOCKWISE)
 flipHorizontal = cv2.flip(imyoda, 1)
 
-'''
-cv2.imshow('original', imyoda)
-cv2.imshow('Rotated', rotate)
-cv2.imshow('flipHorizontal', flipHorizontal)
-cv2.imshow('resized', resized)
-cv2.waitKey()
-'''
-
 yodaims = [imyoda, rotate, flipHorizontal, resized]
 
 huMoments = np.zeros((len(yodaims), 7))
