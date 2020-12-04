@@ -91,6 +91,7 @@ nuevo = np.column_stack((nuevo, etiquetas))
 # .CSV resultante
 np.savetxt("lego_data.csv", nuevo, delimiter=",", fmt='%.1f')
 
+'''
 fig = plt.figure()
 
 ax = fig.gca(projection='3d')
@@ -107,6 +108,7 @@ plt.title("Histograma 3D")
 plt.xlabel("Saturación (0-3)")
 plt.ylabel("Hue (0-15)")
 plt.show()
+'''
+# plt.imshow(hist, interpolation='nearest')
+# plt.show()
 
-plt.imshow(hist, interpolation='nearest')
-plt.show()
