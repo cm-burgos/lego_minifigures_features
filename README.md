@@ -8,3 +8,5 @@ En el presente proyecto se utiliza el dataset de [‘LEGO Minifigures’](https:
 
 El [dataset original] (https://www.kaggle.com/ihelon/lego-minifigures-classification) está licensiado bajo una
 [Creative Commons Attribution 4.0 International License][cc-by].
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
